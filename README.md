@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/Madhup-Sharma)
 <h1 align="center">Namastey 🙏, I'm Madhup Sharma</h1>
-<h3 align="center">👋 Hi there! I'm a full stack developer skilled in C++, Java, JavaScript, Dart, and Flutter. I love building apps and games 🎮 and work on both frontend and backend projects. Currently, I'm preparing for the GATE exam and learning new skills, including DSA 📚. Let's connect and create something amazing! 🚀</h3>
+<h3 align="center">👋 I'm a full stack developer skilled in C++, Java, JavaScript, Dart, and Flutter. I love building apps and games 🎮 and work on both frontend and backend projects. Currently, I'm preparing for the GATE exam and learning new skills, including DSA 📚. Let's connect and create something amazing! 🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-80ba77c342ac34a32b78ee46cf49b94a" >
 
