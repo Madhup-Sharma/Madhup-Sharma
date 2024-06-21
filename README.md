@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/madhup-sharma-5728912a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIN" height="30" width="40" /></a>
-    <a href="https://www.naukri.com/code360/profile/010dd56a-1055-4878-80c3-8b9ce201ed22" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="Codestudio-Profile" height="50"` width="50" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/madhup-sharma-5728912a9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIN" height="30" width="40" /></a>
+    <a href="https://www.naukri.com/code360/profile/010dd56a-1055-4878-80c3-8b9ce201ed22" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="Codestudio-Profile" height="50"` width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
